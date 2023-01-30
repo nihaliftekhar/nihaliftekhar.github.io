@@ -1,7 +1,7 @@
 ---
 title: 'Hello, my name is'
 name: 'Abhishek Gupta'
-subtitle: 'I love analysing data and understand the underlying patterns.'
+subtitle: 'I love analysing data and decrypting the underlying patterns.'
 buttonText: 'Get In Touch'
 ---
 
