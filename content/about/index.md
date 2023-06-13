@@ -2,23 +2,24 @@
 title: 'About Me'
 avatar: './profile_photo.jpg'
 skills:
-  - Machine Learning
-  - Deep Learning
   - Python
   - R
-  - Azure
+  - Scripting languages (Bash, Powershell)
   - ANTLR (ANother Tool for Language Recognition)
-  - C#
   - Oracle
   - MSSQL
-  - Angular JS
-  - HTML/CSS
-  - JDA Category Management Suite
+  - Hadoop
+  - Graphana
+  - Apache NiFi
+  - Machine Learning Models
+  - Deep Learning
+  - Reinforcement Learning
+  - NLP
 ---
 
-Hello! I'm Abhishek, a Data Enthusiast based in Lancaster, UK.
+Hello! I'm Abhishek, a data enthusiast based out of Lancaster, UK.
 
-I love exploring and extracting meaningful insights and patterns from data.
+I enjoy insightful data analysis from messy data and narrating a story out of it. I also enthrall researching about card games and developing them while leveraging reinforcement learning concepts.
 
 After my undergraduation from [PES Institute of Technology](https://pes.edu), I have enjoyed 4 years of working at [Blue Yonder](https://blueyonder.com) as a Technical Analyst. Post this, I have interned at [Crux Intelligence](https://cruxintelligence.com) as a Data Scientist for 6 months and progressed into the field of Natural Language Processing.
 
