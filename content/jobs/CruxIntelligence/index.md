@@ -8,6 +8,7 @@ range: 'Jan 2022 - July 2022'
 url: 'https://cruxintelligence.com'
 ---
 
-- Developed and Integrated Crux's search engine(Ask) to Microsoft teams as a conversational BOT. The bot was developed on the BOT Framework SDK in python and further deployed on Azure as a service.
-- Engineered performance-related issues for the Natural Language Processing module.
-- Developed code in ANTLR to analyse key performance metrics for customers.
+- Implemented Crux's search engine (Ask) integration into Microsoft Teams as a conversational bot.
+- Utilized the BOT Framework SDK in Python to develop and deploy the bot on Azure as a service.
+- Resolved performance-related challenges within the Natural Language Processing module.
+- Employed ANTLR to create code for analyzing crucial performance metrics for clients.

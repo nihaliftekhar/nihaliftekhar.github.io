@@ -2,6 +2,10 @@
 title: 'About Me'
 avatar: './profile_photo.jpg'
 skills:
+  - Machine Learning Models
+  - Deep Learning
+  - Reinforcement Learning
+  - NLP
   - Python
   - R
   - Scripting languages (Bash, Powershell)
@@ -11,10 +15,8 @@ skills:
   - Hadoop
   - Graphana
   - Apache NiFi
-  - Machine Learning Models
-  - Deep Learning
-  - Reinforcement Learning
-  - NLP
+  - Azure
+  - Docker
 ---
 
 Hello! I'm Abhishek, a data enthusiast based out of Lancaster, UK.
