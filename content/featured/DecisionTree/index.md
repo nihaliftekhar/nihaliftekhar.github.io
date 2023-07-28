@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Decision Tree'
-cover: './tree.gif'
+cover: './tree.png'
 github: ''
 tech:
   - Data Structure
