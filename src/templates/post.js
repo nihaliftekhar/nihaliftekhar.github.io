@@ -36,7 +36,9 @@ const StyledPostContent = styled.div`
 `;
 
 const PostTemplate = ({ data, location }) => {
-  const { frontmatter, html } = data.markdownRemark;
+  if (data === null){
+  const { markdownRemark } = data
+  const {  html, frontmatter, } = markdownRemark;
   const { title, date, tags } = frontmatter;
 
   return (
@@ -77,6 +79,7 @@ const PostTemplate = ({ data, location }) => {
       </StyledPostContainer>
     </Layout>
   );
+  }
 };
 
 export default PostTemplate;
